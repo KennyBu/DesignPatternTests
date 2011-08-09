@@ -1,0 +1,7 @@
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\DecoratorTest.exe
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\DecoratorTest.pdb
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\obj\x86\Debug\DecoratorTest.exe
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\obj\x86\Debug\DecoratorTest.pdb
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.dll
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.pdb
