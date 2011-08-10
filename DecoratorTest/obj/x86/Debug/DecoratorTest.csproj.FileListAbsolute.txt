@@ -5,3 +5,12 @@ C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\obj\x86\Debug\De
 C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\obj\x86\Debug\DecoratorTest.pdb
 C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.dll
 C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.pdb
+C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\obj\x86\Debug\DecoratorTest.exe
+C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\obj\x86\Debug\DecoratorTest.pdb
+C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\DecoratorTest.exe.config
+C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\DecoratorTest.exe
+C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\DecoratorTest.pdb
+C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.dll
+C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.pdb
+C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.xml
+C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\obj\x86\Debug\ResolveAssemblyReference.cache

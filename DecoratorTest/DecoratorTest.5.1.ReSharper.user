@@ -8,64 +8,9 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SmsBasedTextSender.cs" caret="259" fromTop="11" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:ISendText.cs" caret="210" fromTop="13" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="232" fromTop="9" />
-      <File id="ADF369E2-6B9E-4D56-9B82-D273AE41EC2D/d:Modules/f:NinjectModule.cs" caret="1540" fromTop="19" />
-      <File id="ADF369E2-6B9E-4D56-9B82-D273AE41EC2D/d:Syntax/f:ResolutionExtensions.cs" caret="14678" fromTop="16" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:FileBasedTextSender.cs" caret="336" fromTop="12" />
-      <File id="ADF369E2-6B9E-4D56-9B82-D273AE41EC2D/f:KernelBase.cs" caret="12826" fromTop="13" />
-      <File id="90F46524-0716-4180-8A5F-1CD1EB5686F6/f:TestModule.cs" caret="0" fromTop="0" />
-      <File id="7E7DE343-8DBD-42EE-94ED-036E9E0F5411/d:Unit/f:DynamicMethodInjectorFactoryTests.cs" caret="0" fromTop="0" />
-      <File id="7E7DE343-8DBD-42EE-94ED-036E9E0F5411/d:Fakes/f:Sword.cs" caret="187" fromTop="11" />
-      <File id="ADF369E2-6B9E-4D56-9B82-D273AE41EC2D/d:Activation/f:Request.cs" caret="3878" fromTop="17" />
-      <File id="ADF369E2-6B9E-4D56-9B82-D273AE41EC2D/d:Planning/d:Bindings/f:Binding.cs" caret="5236" fromTop="78" />
-      <File id="ADF369E2-6B9E-4D56-9B82-D273AE41EC2D/d:Infrastructure/f:Ensure.cs" caret="587" fromTop="18" />
-      <File id="ADF369E2-6B9E-4D56-9B82-D273AE41EC2D/d:Planning/d:Bindings/f:BindingBuilder.cs" caret="7878" fromTop="15" />
-      <File id="ADF369E2-6B9E-4D56-9B82-D273AE41EC2D/d:Attributes/f:InjectAttribute.cs" caret="684" fromTop="19" />
-      <File id="C9F6CFE7-44B2-4D55-9307-33C34C045468/f:Class.cs" caret="0" fromTop="0" />
-      <File id="7E7DE343-8DBD-42EE-94ED-036E9E0F5411/d:Unit/f:BindingActionStrategyTests.cs" caret="0" fromTop="0" />
-      <File id="7E7DE343-8DBD-42EE-94ED-036E9E0F5411/d:Fakes/f:Ninja.cs" caret="1750" fromTop="49" />
-      <File id="7E7DE343-8DBD-42EE-94ED-036E9E0F5411/d:Unit/f:PipelineTests.cs" caret="0" fromTop="0" />
-      <File id="7E7DE343-8DBD-42EE-94ED-036E9E0F5411/d:Unit/f:NamedAttributeTests.cs" caret="0" fromTop="0" />
-      <File id="7E7DE343-8DBD-42EE-94ED-036E9E0F5411/d:Unit/f:PropertyInjectionSelectorTests.cs" caret="185" fromTop="6" />
-      <File id="7E7DE343-8DBD-42EE-94ED-036E9E0F5411/d:Fakes/f:Samurai.cs" caret="166" fromTop="8" />
-      <File id="7E7DE343-8DBD-42EE-94ED-036E9E0F5411/d:Integration/f:ConditionalBindingTests.cs" caret="520" fromTop="14" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="1027" fromTop="12" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1101" fromTop="24" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:FileBasedTextSender.cs" caret="246" fromTop="11" />
     </RecentFiles>
-    <RecentEdits>
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:ISendText.cs" caret="200" fromTop="11" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="115" fromTop="5" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="232" fromTop="11" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="2008" fromTop="19" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1583" fromTop="21" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="351" fromTop="19" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="427" fromTop="17" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="166" fromTop="6" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="2478" fromTop="18" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="2333" fromTop="23" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1459" fromTop="20" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1361" fromTop="16" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1281" fromTop="20" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1191" fromTop="18" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="29" fromTop="1" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1107" fromTop="17" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1101" fromTop="18" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="716" fromTop="19" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="354" fromTop="9" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1056" fromTop="18" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="519" fromTop="15" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="1219" fromTop="28" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="1622" fromTop="19" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="612" fromTop="7" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="203" fromTop="11" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="2396" fromTop="17" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="2116" fromTop="8" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="1011" fromTop="12" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="1414" fromTop="27" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="969" fromTop="20" />
-    </RecentEdits>
+    <RecentEdits />
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
