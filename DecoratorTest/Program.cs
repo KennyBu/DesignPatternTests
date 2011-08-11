@@ -7,7 +7,7 @@ namespace DecoratorTest
     {
         private static IKernel kernel;
         
-        static void Main(string[] args)
+        static void Main()
         {
             const string message = "Ground control to Major Tom!";
             

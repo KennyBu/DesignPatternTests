@@ -8,9 +8,22 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:app.config" caret="0" fromTop="0" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="358" fromTop="13" />
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:FileBasedTextSender.cs" caret="246" fromTop="11" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:IEmailInterface.cs" caret="0" fromTop="0" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:IFileInterface.cs" caret="0" fromTop="0" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:ISendText.cs" caret="0" fromTop="0" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Scenario1.cs" caret="365" fromTop="14" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Scenario2.cs" caret="323" fromTop="13" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1005" fromTop="21" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="171" fromTop="9" />
     </RecentFiles>
-    <RecentEdits />
+    <RecentEdits>
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="403" fromTop="10" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="573" fromTop="14" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="171" fromTop="9" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />

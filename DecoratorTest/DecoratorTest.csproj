@@ -58,7 +58,6 @@
     <Compile Include="Scenario1.cs" />
     <Compile Include="Scenario2.cs" />
     <Compile Include="SimpleModule.cs" />
-    <Compile Include="SmsBasedTextSender.cs" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
