@@ -1,0 +1,9 @@
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\bin\Debug\BuilderTest.exe.config
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\bin\Debug\BuilderTest.exe
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\bin\Debug\BuilderTest.pdb
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\bin\Debug\Ninject.dll
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\bin\Debug\Ninject.pdb
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\bin\Debug\Ninject.xml
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\obj\x86\Debug\BuilderTest.exe
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\obj\x86\Debug\BuilderTest.pdb

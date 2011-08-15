@@ -1,0 +1,5 @@
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\Builder2\bin\Debug\Builder2.exe
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\Builder2\bin\Debug\Builder2.pdb
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\Builder2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\Builder2\obj\x86\Debug\Builder2.exe
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\Builder2\obj\x86\Debug\Builder2.pdb

@@ -14,3 +14,5 @@ C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.dll
 C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.pdb
 C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.xml
 C:\Users\Ken\repos\home\DesignPatternTests\DecoratorTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\DecoratorTest.exe.config
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\DecoratorTest\bin\Debug\Ninject.xml

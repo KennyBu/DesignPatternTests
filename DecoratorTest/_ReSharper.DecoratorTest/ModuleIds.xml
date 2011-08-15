@@ -1,7 +1,5 @@
 <Modules>
   <Module PersistentId="19F3E03D-F3CA-4761-8D2B-D8C77852051E" ModuleId="DecoratorTest" />
-  <Module PersistentId="ADF369E2-6B9E-4D56-9B82-D273AE41EC2D" ModuleId="Ninject" />
-  <Module PersistentId="90F46524-0716-4180-8A5F-1CD1EB5686F6" ModuleId="TestModules" />
-  <Module PersistentId="C9F6CFE7-44B2-4D55-9307-33C34C045468" ModuleId="TestAssembly" />
-  <Module PersistentId="7E7DE343-8DBD-42EE-94ED-036E9E0F5411" ModuleId="Ninject.Tests" />
+  <Module PersistentId="65CA1944-C04F-4947-91AB-7A2684E19A82" ModuleId="BuilderTest" />
+  <Module PersistentId="B655192A-ED19-4554-9F4D-15CFB96E2803" ModuleId="Builder2" />
 </Modules>

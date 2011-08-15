@@ -13,21 +13,49 @@
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:IFileInterface.cs" caret="0" fromTop="0" />
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Scenario2.cs" caret="323" fromTop="13" />
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1005" fromTop="21" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="171" fromTop="9" />
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Scenario1.cs" caret="365" fromTop="14" />
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:ISendText.cs" caret="118" fromTop="6" />
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="561" fromTop="21" />
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:FileBasedTextSender.cs" caret="111" fromTop="5" />
+      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="265" fromTop="12" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="64" fromTop="5" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="199" fromTop="7" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Customer.cs" caret="155" fromTop="6" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="67" fromTop="5" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="628" fromTop="26" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1255" fromTop="52" />
     </RecentFiles>
     <RecentEdits>
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="403" fromTop="10" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="573" fromTop="14" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="171" fromTop="9" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:ISendText.cs" caret="115" fromTop="7" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:ISendText.cs" caret="0" fromTop="0" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="415" fromTop="13" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="282" fromTop="12" />
-      <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="561" fromTop="15" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="94" fromTop="9" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="13" fromTop="0" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="505" fromTop="19" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="202" fromTop="9" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="528" fromTop="21" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="435" fromTop="19" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Customer.cs" caret="15" fromTop="0" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="694" fromTop="23" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Customer.cs" caret="155" fromTop="6" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="133" fromTop="7" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="622" fromTop="26" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="207" fromTop="12" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="353" fromTop="17" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="13" fromTop="0" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="0" fromTop="0" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="855" fromTop="15" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="550" fromTop="13" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="0" fromTop="0" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="409" fromTop="11" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="557" fromTop="17" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="301" fromTop="12" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="831" fromTop="32" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="616" fromTop="31" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="180" fromTop="5" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="855" fromTop="25" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1105" fromTop="35" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1243" fromTop="37" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1017" fromTop="27" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="30" fromTop="2" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1255" fromTop="17" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -44,11 +72,11 @@
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
       <Item value="void" priority="3" />
-      <Item value="string" priority="4" />
+      <Item value="string" priority="7" />
       <Item value="FileBasedTextSender`0" priority="6" />
       <Item value="textToSend" priority="4" />
-      <Item value="var" priority="6" />
-      <Item value="new" priority="8" />
+      <Item value="var" priority="8" />
+      <Item value="new" priority="9" />
       <Item value="fileBasedTextSender" priority="0" />
       <Item value="ISendText`0" priority="5" />
       <Item value="EmailBasedTextSender`0" priority="2" />
@@ -63,26 +91,46 @@
       <Item value="SmsBasedTextSender`0" priority="0" />
       <Item value="sms" priority="0" />
       <Item value="Ninject" priority="1" />
-      <Item value="public" priority="3" />
+      <Item value="public" priority="9" />
       <Item value="theTextToSend" priority="0" />
       <Item value="textSender" priority="4" />
       <Item value="SendTextFacade`0" priority="0" />
       <Item value="facade" priority="0" />
       <Item value="message" priority="3" />
-      <Item value="private" priority="0" />
+      <Item value="private" priority="2" />
       <Item value="id" priority="2" />
       <Item value="a" priority="3" />
       <Item value="EmailAndFile" priority="0" />
       <Item value="Email" priority="0" />
       <Item value="scenario1`0" priority="0" />
       <Item value="scenario1" priority="0" />
-      <Item value="interface" priority="1" />
-      <Item value="return" priority="0" />
+      <Item value="interface" priority="3" />
+      <Item value="return" priority="2" />
       <Item value="using" priority="0" />
       <Item value="AccessViolationException`0" priority="0" />
       <Item value="FileInterface`0" priority="0" />
       <Item value="EmailAttribute`0" priority="0" />
       <Item value="request" priority="0" />
+      <Item value="prop" priority="1" />
+      <Item value="CustomerBuilder`0" priority="3" />
+      <Item value="firstName" priority="2" />
+      <Item value="this" priority="0" />
+      <Item value="Customer" priority="0" />
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="1" />
+      <Item value="_firstName" priority="0" />
+      <Item value="_lastName" priority="0" />
+      <Item value="customerBuilder" priority="0" />
+      <Item value="lastName" priority="1" />
+      <Item value="Console`0" priority="1" />
+      <Item value="customer" priority="1" />
+      <Item value="Address`0" priority="1" />
+      <Item value="IHaveanAddress`0" priority="1" />
+      <Item value="ICustomer`0" priority="0" />
+      <Item value="IHaveCustomerWithAddress`0" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="street" priority="0" />
+      <Item value="zip" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.IO.File">
       <Item value="AppendText`0" priority="0" />
@@ -148,6 +196,19 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:Ninject.Syntax.IBindingInNamedWithOrOnSyntax`1">
       <Item value="InTransientScope`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BuilderTest.CustomerBuilder">
+      <Item value="WithFirstName`0" priority="0" />
+      <Item value="WithLastName`0" priority="0" />
+      <Item value="Build`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BuilderTest.Customer">
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
