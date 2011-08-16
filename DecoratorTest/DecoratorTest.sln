@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderTest", "..\BuilderTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder2", "Builder2\Builder2.csproj", "{B655192A-ED19-4554-9F4D-15CFB96E2803}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressiveBuilder", "..\ProgressiveBuilder\ProgressiveBuilder.csproj", "{B6627300-990F-4ABC-BDBA-6BBC185AB08C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		AutomatedRelease|Any CPU = AutomatedRelease|Any CPU
@@ -65,6 +67,21 @@ Global
 		{B655192A-ED19-4554-9F4D-15CFB96E2803}.Release|Mixed Platforms.Build.0 = Release|x86
 		{B655192A-ED19-4554-9F4D-15CFB96E2803}.Release|x86.ActiveCfg = Release|x86
 		{B655192A-ED19-4554-9F4D-15CFB96E2803}.Release|x86.Build.0 = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.AutomatedRelease|Any CPU.ActiveCfg = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.AutomatedRelease|Mixed Platforms.ActiveCfg = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.AutomatedRelease|Mixed Platforms.Build.0 = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.AutomatedRelease|x86.ActiveCfg = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.AutomatedRelease|x86.Build.0 = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Debug|x86.ActiveCfg = Debug|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Debug|x86.Build.0 = Debug|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Release|Any CPU.ActiveCfg = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Release|x86.ActiveCfg = Release|x86
+		{B6627300-990F-4ABC-BDBA-6BBC185AB08C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

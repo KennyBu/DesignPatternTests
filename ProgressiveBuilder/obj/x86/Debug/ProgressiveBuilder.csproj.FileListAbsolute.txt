@@ -1,0 +1,5 @@
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\ProgressiveBuilder\bin\Debug\ProgressiveBuilder.exe
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\ProgressiveBuilder\bin\Debug\ProgressiveBuilder.pdb
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\ProgressiveBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\ProgressiveBuilder\obj\x86\Debug\ProgressiveBuilder.exe
+C:\Users\KBurkhardt\repos\home\DesignPatternTests\ProgressiveBuilder\obj\x86\Debug\ProgressiveBuilder.pdb

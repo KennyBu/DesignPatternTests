@@ -18,44 +18,50 @@
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="561" fromTop="21" />
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:FileBasedTextSender.cs" caret="111" fromTop="5" />
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="265" fromTop="12" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="64" fromTop="5" />
       <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="199" fromTop="7" />
       <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Customer.cs" caret="155" fromTop="6" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="0" fromTop="0" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="113" fromTop="5" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="124" fromTop="6" />
       <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="67" fromTop="5" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="628" fromTop="26" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1255" fromTop="52" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPostProductNameBuilder.cs" caret="172" fromTop="6" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPreProductNameBuilder.cs" caret="146" fromTop="6" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPostProductManufacturerBuilder.cs" caret="85" fromTop="2" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Product.cs" caret="241" fromTop="7" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="469" fromTop="13" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="352" fromTop="15" />
     </RecentFiles>
     <RecentEdits>
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="94" fromTop="9" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="13" fromTop="0" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="505" fromTop="19" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="202" fromTop="9" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="528" fromTop="21" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="435" fromTop="19" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Customer.cs" caret="15" fromTop="0" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="694" fromTop="23" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Customer.cs" caret="155" fromTop="6" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="133" fromTop="7" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="622" fromTop="26" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="207" fromTop="12" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="353" fromTop="17" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="13" fromTop="0" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="0" fromTop="0" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="855" fromTop="15" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="550" fromTop="13" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="0" fromTop="0" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="409" fromTop="11" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="557" fromTop="17" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="301" fromTop="12" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="831" fromTop="32" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="616" fromTop="31" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="180" fromTop="5" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="855" fromTop="25" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1105" fromTop="35" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1243" fromTop="37" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1017" fromTop="27" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="30" fromTop="2" />
-      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="1255" fromTop="17" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="168" fromTop="5" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="610" fromTop="25" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="610" fromTop="35" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="610" fromTop="37" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="610" fromTop="27" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="52" fromTop="2" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="159" fromTop="6" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="24" fromTop="1" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="485" fromTop="20" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="615" fromTop="26" />
+      <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="99" fromTop="5" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="780" fromTop="23" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="535" fromTop="12" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPreProductNameBuilder.cs" caret="146" fromTop="6" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPostProductNameBuilder.cs" caret="172" fromTop="6" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="116" fromTop="2" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="509" fromTop="13" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="653" fromTop="19" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="499" fromTop="17" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="13" fromTop="0" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Product.cs" caret="241" fromTop="7" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPostProductManufacturerBuilder.cs" caret="153" fromTop="4" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="924" fromTop="17" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="280" fromTop="6" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="886" fromTop="28" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="1319" fromTop="21" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="336" fromTop="12" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="177" fromTop="9" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="1050" fromTop="19" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="1182" fromTop="23" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -72,11 +78,11 @@
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
       <Item value="void" priority="3" />
-      <Item value="string" priority="7" />
+      <Item value="string" priority="9" />
       <Item value="FileBasedTextSender`0" priority="6" />
       <Item value="textToSend" priority="4" />
-      <Item value="var" priority="8" />
-      <Item value="new" priority="9" />
+      <Item value="var" priority="10" />
+      <Item value="new" priority="11" />
       <Item value="fileBasedTextSender" priority="0" />
       <Item value="ISendText`0" priority="5" />
       <Item value="EmailBasedTextSender`0" priority="2" />
@@ -91,13 +97,13 @@
       <Item value="SmsBasedTextSender`0" priority="0" />
       <Item value="sms" priority="0" />
       <Item value="Ninject" priority="1" />
-      <Item value="public" priority="9" />
+      <Item value="public" priority="11" />
       <Item value="theTextToSend" priority="0" />
       <Item value="textSender" priority="4" />
       <Item value="SendTextFacade`0" priority="0" />
       <Item value="facade" priority="0" />
       <Item value="message" priority="3" />
-      <Item value="private" priority="2" />
+      <Item value="private" priority="3" />
       <Item value="id" priority="2" />
       <Item value="a" priority="3" />
       <Item value="EmailAndFile" priority="0" />
@@ -105,7 +111,7 @@
       <Item value="scenario1`0" priority="0" />
       <Item value="scenario1" priority="0" />
       <Item value="interface" priority="3" />
-      <Item value="return" priority="2" />
+      <Item value="return" priority="4" />
       <Item value="using" priority="0" />
       <Item value="AccessViolationException`0" priority="0" />
       <Item value="FileInterface`0" priority="0" />
@@ -122,7 +128,7 @@
       <Item value="_lastName" priority="0" />
       <Item value="customerBuilder" priority="0" />
       <Item value="lastName" priority="1" />
-      <Item value="Console`0" priority="1" />
+      <Item value="Console`0" priority="3" />
       <Item value="customer" priority="1" />
       <Item value="Address`0" priority="1" />
       <Item value="IHaveanAddress`0" priority="1" />
@@ -131,6 +137,20 @@
       <Item value="class" priority="0" />
       <Item value="street" priority="0" />
       <Item value="zip" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="ProductBuilder`0" priority="6" />
+      <Item value="name" priority="0" />
+      <Item value="_manufacturer" priority="1" />
+      <Item value="manufacturer" priority="0" />
+      <Item value="_price" priority="1" />
+      <Item value="Name" priority="0" />
+      <Item value="_name" priority="0" />
+      <Item value="Manufacturer" priority="0" />
+      <Item value="Price" priority="0" />
+      <Item value="builder" priority="0" />
+      <Item value="product" priority="2" />
+      <Item value="double" priority="0" />
+      <Item value="_cost" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.IO.File">
       <Item value="AppendText`0" priority="0" />
@@ -203,12 +223,34 @@
       <Item value="Build`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Console">
-      <Item value="WriteLine`0" priority="0" />
-      <Item value="Read`0" priority="0" />
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="Read`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:BuilderTest.Customer">
       <Item value="FirstName" priority="0" />
       <Item value="LastName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ProgressiveBuilder.ProductBuilder">
+      <Item value="CreateProduct`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProgressiveBuilder.ProductBuilder">
+      <Item value="ManufacturedBy`0" priority="0" />
+      <Item value="Named`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProgressiveBuilder.IPreProductNameBuilder">
+      <Item value="Named`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProgressiveBuilder.IPostProductNameBuilder">
+      <Item value="ManufacturedBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProgressiveBuilder.IPostProductManufacturerBuilder">
+      <Item value="Priced`0" priority="0" />
+      <Item value="Costs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProgressiveBuilder.Product">
+      <Item value="Name" priority="0" />
+      <Item value="Price" priority="0" />
+      <Item value="Manufacturer" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

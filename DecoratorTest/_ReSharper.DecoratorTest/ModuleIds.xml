@@ -2,4 +2,5 @@
   <Module PersistentId="19F3E03D-F3CA-4761-8D2B-D8C77852051E" ModuleId="DecoratorTest" />
   <Module PersistentId="65CA1944-C04F-4947-91AB-7A2684E19A82" ModuleId="BuilderTest" />
   <Module PersistentId="B655192A-ED19-4554-9F4D-15CFB96E2803" ModuleId="Builder2" />
+  <Module PersistentId="B6627300-990F-4ABC-BDBA-6BBC185AB08C" ModuleId="ProgressiveBuilder" />
 </Modules>
