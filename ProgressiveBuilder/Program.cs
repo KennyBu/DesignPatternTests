@@ -6,7 +6,7 @@ namespace ProgressiveBuilder
     {
         static void Main()
         {
-            //Test again
+            //Test for Growl Notification
             Product product = ProductBuilder
                 .CreateProduct()
                 .Named("Darth Vader")

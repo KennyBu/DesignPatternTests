@@ -20,7 +20,6 @@
       <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="265" fromTop="12" />
       <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="199" fromTop="7" />
       <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Customer.cs" caret="155" fromTop="6" />
-      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="0" fromTop="0" />
       <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="113" fromTop="5" />
       <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="124" fromTop="6" />
       <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="67" fromTop="5" />
@@ -29,7 +28,8 @@
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPostProductManufacturerBuilder.cs" caret="85" fromTop="2" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Product.cs" caret="241" fromTop="7" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="469" fromTop="13" />
-      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="352" fromTop="15" />
+      <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="0" fromTop="0" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="156" fromTop="8" />
     </RecentFiles>
     <RecentEdits>
       <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="168" fromTop="5" />
@@ -44,13 +44,13 @@
       <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="615" fromTop="26" />
       <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="99" fromTop="5" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="780" fromTop="23" />
-      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="535" fromTop="12" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="552" fromTop="12" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPreProductNameBuilder.cs" caret="146" fromTop="6" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPostProductNameBuilder.cs" caret="172" fromTop="6" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="116" fromTop="2" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="509" fromTop="13" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="653" fromTop="19" />
-      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="499" fromTop="17" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="516" fromTop="17" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="13" fromTop="0" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Product.cs" caret="241" fromTop="7" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPostProductManufacturerBuilder.cs" caret="153" fromTop="4" />
@@ -58,10 +58,10 @@
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="280" fromTop="6" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="886" fromTop="28" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="1319" fromTop="21" />
-      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="336" fromTop="12" />
-      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="177" fromTop="9" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="353" fromTop="12" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="1050" fromTop="19" />
       <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="1182" fromTop="23" />
+      <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="156" fromTop="8" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

@@ -7,3 +7,12 @@ C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\bin\Debug\Ninject.
 C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\obj\x86\Debug\BuilderTest.exe
 C:\Users\KBurkhardt\repos\home\DesignPatternTests\BuilderTest\obj\x86\Debug\BuilderTest.pdb
+C:\Users\Ken\repos\home\DesignPatternTests\BuilderTest\bin\Debug\BuilderTest.exe.config
+C:\Users\Ken\repos\home\DesignPatternTests\BuilderTest\bin\Debug\BuilderTest.exe
+C:\Users\Ken\repos\home\DesignPatternTests\BuilderTest\bin\Debug\BuilderTest.pdb
+C:\Users\Ken\repos\home\DesignPatternTests\BuilderTest\bin\Debug\Ninject.dll
+C:\Users\Ken\repos\home\DesignPatternTests\BuilderTest\bin\Debug\Ninject.pdb
+C:\Users\Ken\repos\home\DesignPatternTests\BuilderTest\bin\Debug\Ninject.xml
+C:\Users\Ken\repos\home\DesignPatternTests\BuilderTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ken\repos\home\DesignPatternTests\BuilderTest\obj\x86\Debug\BuilderTest.exe
+C:\Users\Ken\repos\home\DesignPatternTests\BuilderTest\obj\x86\Debug\BuilderTest.pdb
