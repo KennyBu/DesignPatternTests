@@ -6,6 +6,7 @@ namespace ProgressiveBuilder
     {
         static void Main()
         {
+            //Test
             Product product = ProductBuilder
                 .CreateProduct()
                 .Named("Darth Vader")
