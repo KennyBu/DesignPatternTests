@@ -2,3 +2,6 @@ This project is designed to demonstrate some design patterns including:
 
 -Decorator
 -Dependency Injection
+-Builder
+-Progressive Builder
+-Conditional Builder
