@@ -1,0 +1,64 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:app.config" caret="0" fromTop="0" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:IEmailInterface.cs" caret="0" fromTop="0" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:IFileInterface.cs" caret="0" fromTop="0" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Scenario2.cs" caret="323" fromTop="13" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:SimpleModule.cs" caret="1005" fromTop="21" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Scenario1.cs" caret="365" fromTop="14" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:ISendText.cs" caret="118" fromTop="6" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:FileBasedTextSender.cs" caret="111" fromTop="5" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:Program.cs" caret="265" fromTop="12" />
+    <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:CustomerBuilder.cs" caret="199" fromTop="7" />
+    <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Customer.cs" caret="155" fromTop="6" />
+    <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Customer.cs" caret="113" fromTop="5" />
+    <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:CustomerBuilder.cs" caret="124" fromTop="6" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPostProductNameBuilder.cs" caret="172" fromTop="6" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPreProductNameBuilder.cs" caret="146" fromTop="6" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:IPostProductManufacturerBuilder.cs" caret="85" fromTop="2" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Product.cs" caret="241" fromTop="7" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="469" fromTop="13" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="156" fromTop="8" />
+    <File id="65CA1944-C04F-4947-91AB-7A2684E19A82/f:Program.cs" caret="0" fromTop="0" />
+    <File id="B655192A-ED19-4554-9F4D-15CFB96E2803/f:Program.cs" caret="0" fromTop="0" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="571" fromTop="23" />
+    <File id="FC2D16C0-3874-4A76-BDF1-2303A117FCDC/f:EvilPerson.cs" caret="0" fromTop="0" />
+    <File id="FC2D16C0-3874-4A76-BDF1-2303A117FCDC/f:Person.cs" caret="186" fromTop="8" />
+    <File id="FC2D16C0-3874-4A76-BDF1-2303A117FCDC/f:Program.cs" caret="872" fromTop="27" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:Ninja.cs" caret="187" fromTop="6" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:Program.cs" caret="748" fromTop="24" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="934" fromTop="39" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="924" fromTop="17" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="280" fromTop="6" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="886" fromTop="28" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="1319" fromTop="21" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="353" fromTop="12" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="1050" fromTop="19" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:ProductBuilder.cs" caret="1182" fromTop="23" />
+    <File id="B6627300-990F-4ABC-BDBA-6BBC185AB08C/f:Program.cs" caret="156" fromTop="8" />
+    <File id="FC2D16C0-3874-4A76-BDF1-2303A117FCDC/f:Person.cs" caret="447" fromTop="16" />
+    <File id="19F3E03D-F3CA-4761-8D2B-D8C77852051E/f:EmailBasedTextSender.cs" caret="594" fromTop="23" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="0" fromTop="0" />
+    <File id="FC2D16C0-3874-4A76-BDF1-2303A117FCDC/f:Program.cs" caret="872" fromTop="27" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="893" fromTop="28" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="1442" fromTop="39" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="327" fromTop="12" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="296" fromTop="12" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:Ninja.cs" caret="187" fromTop="6" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="585" fromTop="25" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="544" fromTop="22" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="938" fromTop="26" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="1239" fromTop="37" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="1006" fromTop="27" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="1239" fromTop="34" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="934" fromTop="20" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:Program.cs" caret="175" fromTop="11" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:Program.cs" caret="177" fromTop="11" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:Program.cs" caret="399" fromTop="18" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:Program.cs" caret="13" fromTop="0" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:Program.cs" caret="597" fromTop="20" />
+    <File id="73F0F103-B5C9-46F9-B040-C69D2A58B500/f:NinjaBuilder.cs" caret="934" fromTop="9" />
+  </RecentEdits>
+</RecentFiles>

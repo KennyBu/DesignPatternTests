@@ -1,0 +1,6 @@
+D:\repo\DesignPatternTests\ConditionalBuilder\bin\Debug\ConditionalBuilder.exe.config
+D:\repo\DesignPatternTests\ConditionalBuilder\bin\Debug\ConditionalBuilder.exe
+D:\repo\DesignPatternTests\ConditionalBuilder\bin\Debug\ConditionalBuilder.pdb
+D:\repo\DesignPatternTests\ConditionalBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\repo\DesignPatternTests\ConditionalBuilder\obj\x86\Debug\ConditionalBuilder.exe
+D:\repo\DesignPatternTests\ConditionalBuilder\obj\x86\Debug\ConditionalBuilder.pdb

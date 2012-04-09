@@ -1,0 +1,6 @@
+D:\repo\DesignPatternTests\RepositoriesAreEvil\bin\Debug\RepositoriesAreEvil.exe
+D:\repo\DesignPatternTests\RepositoriesAreEvil\bin\Debug\RepositoriesAreEvil.pdb
+D:\repo\DesignPatternTests\RepositoriesAreEvil\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\repo\DesignPatternTests\RepositoriesAreEvil\obj\x86\Debug\RepositoriesAreEvil.exe
+D:\repo\DesignPatternTests\RepositoriesAreEvil\obj\x86\Debug\RepositoriesAreEvil.pdb
+D:\repo\DesignPatternTests\RepositoriesAreEvil\bin\Debug\RepositoriesAreEvil.exe.config

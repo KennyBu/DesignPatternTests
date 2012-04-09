@@ -8,3 +8,8 @@ C:\Users\Ken\repos\home\DesignPatternTests\ProgressiveBuilder\obj\x86\Debug\Prog
 C:\Users\Ken\repos\home\DesignPatternTests\ProgressiveBuilder\bin\Debug\ProgressiveBuilder.exe
 C:\Users\Ken\repos\home\DesignPatternTests\ProgressiveBuilder\bin\Debug\ProgressiveBuilder.pdb
 C:\Users\Ken\repos\home\DesignPatternTests\ProgressiveBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\repo\DesignPatternTests\ProgressiveBuilder\obj\x86\Debug\ProgressiveBuilder.exe
+D:\repo\DesignPatternTests\ProgressiveBuilder\obj\x86\Debug\ProgressiveBuilder.pdb
+D:\repo\DesignPatternTests\ProgressiveBuilder\bin\Debug\ProgressiveBuilder.exe
+D:\repo\DesignPatternTests\ProgressiveBuilder\bin\Debug\ProgressiveBuilder.pdb
+D:\repo\DesignPatternTests\ProgressiveBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
